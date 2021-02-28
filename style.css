@@ -1,29 +1,29 @@
 #palo1 {
-    height: 20px;
-    width: 20px;
-    position: relative;
-    margin-top: 2%;
-    margin-left: 2%;
-    /*float: left;*/
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 4%;
+    left: 8%;
 }
 #numero {
-     height: 60px;
-    width: 60px;
-    position: relative;
-    margin-top: 50%;
-    margin-left: 50%;
-    /*float: left;*/
+    font-size: 80px;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 33%;
+    left: 45%;
 }
 #palo2 {
-    height: 20px;
-    width: 20px;
-    position: relative;
-    left: 90%;
-    top: 35%;
-    /*margin-bottom: 2%;
-    margin-right: 2%;*/
+    font-size: 40px;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    right: 4%;
+    bottom: 8%;
 }
 
 #carta {
+    position: relative;
     border-radius: 25px;
 }
